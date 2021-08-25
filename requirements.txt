@@ -23,5 +23,5 @@ opencv-python==4.2.0.32
 # TensorFlow can be installed either as CPU or GPU versions.
 # You select which one to install by (un)commenting these lines.
 
-tensorflow==2.1.0		# CPU Version of TensorFlow.
+tensorflow==2.5.1		# CPU Version of TensorFlow.
 # tensorflow-gpu	        # GPU version of TensorFlow.
